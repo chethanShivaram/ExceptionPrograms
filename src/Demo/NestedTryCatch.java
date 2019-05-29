@@ -1,6 +1,6 @@
 package Demo;
 import java.lang.Thread;
-class MultiTryCatch
+class NestedTryCatch
 {
 	   public static void main(String args[])
 	   {
